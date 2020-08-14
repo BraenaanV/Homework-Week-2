@@ -10,7 +10,7 @@
     .container {
         background-color: white;
         height: fit-content;
-        width: 800px;
+        width: 1000px;
         margin-top: 5%;
         margin-right: 30%;
         margin-bottom: 10%;
@@ -19,7 +19,7 @@
 }
 
 body {
-    background-image: url("./Images/Background\ Img.jpg")
+    background-image: url("./My-pictures/Background\ Img.jpg")
 }
 
 .footer {
